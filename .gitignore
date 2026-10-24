@@ -1,0 +1,7 @@
+.vs/
+**/bin/
+**/obj/
+packages/
+UseName_Password/
+dbbakup/
+*.bak
